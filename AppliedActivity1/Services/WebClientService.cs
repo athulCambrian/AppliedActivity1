@@ -1,7 +1,7 @@
 ﻿using System.Text;
-using EmployeeApplication.Services;
 
-namespace EmployeeApplication.Services
+
+namespace AppliedActivity1.Services
 {
     public class WebClientService : IWebClientService
     {

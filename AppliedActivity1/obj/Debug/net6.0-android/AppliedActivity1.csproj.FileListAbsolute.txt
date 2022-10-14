@@ -954,3 +954,11 @@ C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6
 C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\assets\DevExpress.Data.v22.1.dll
+C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\assets\MvvmHelpers.dll
+C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\assets\MvvmHelpers.pdb
+C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\assets\Newtonsoft.Json.Bson.dll
+C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\assets\Newtonsoft.Json.Bson.pdb
+C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\assets\Newtonsoft.Json.dll
+C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\assets\Newtonsoft.Json.pdb
+C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\assets\System.Drawing.Common.dll

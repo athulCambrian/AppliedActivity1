@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:models="clr-namespace:AppliedActivity1.Models"
+             xmlns:viewmodels="clr-namespace:AppliedActivity1.ViewModels"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:Class="AppliedActivity1.MainPage">
+
+
+    <ContentPage.BindingContext>
+        <viewmodels:CocktailListViewModel/>
+    </ContentPage.BindingContext>
+ 
+    <CollectionView ItemsSource="{Binding Cocktail}">
+        <CollectionView.ItemTemplate>
+            <DataTemplate x:DataType="models:Cocktail">
+                <HorizontalStackLayout Padding="10">
+                    <Frame Margin="10"
+                       BorderColor="Black"
+                       CornerRadius="50"
+                       HeightRequest="60"
+                       WidthRequest="60"
+                       IsClippedToBounds="True"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center">
+                       
+                    </Frame>
+                    <VerticalStackLayout VerticalOptions="Center">
+                        <Label Text="{Binding Name}" FontSize="24" TextColor="Gray"/>
+                        <Label Text="{Binding Instructions}" FontSize="14" TextColor="Gray"/>
+                    </VerticalStackLayout>
+                </HorizontalStackLayout>
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+    </CollectionView>
+</ContentPage>

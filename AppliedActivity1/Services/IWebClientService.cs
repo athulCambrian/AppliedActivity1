@@ -1,4 +1,4 @@
-﻿namespace EmployeeApplication.Services
+﻿namespace AppliedActivity1.Services
 {
     interface IWebClientService
     {
