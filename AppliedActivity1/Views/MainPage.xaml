@@ -10,7 +10,11 @@
     <ContentPage.BindingContext>
         <viewmodels:CocktailListViewModel/>
     </ContentPage.BindingContext>
- 
+    <ContentPage.Behaviors>
+        <toolkit:EventToCommandBehavior
+                EventName="Appearing"
+                Command="{Binding PageAppearingCommand}" />
+    </ContentPage.Behaviors>
     <CollectionView ItemsSource="{Binding Cocktail}">
         <CollectionView.ItemTemplate>
             <DataTemplate x:DataType="models:Cocktail">

@@ -962,3 +962,10 @@ C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6
 C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\assets\Newtonsoft.Json.dll
 C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\assets\Newtonsoft.Json.pdb
 C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\assets\System.Drawing.Common.dll
+C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\assets\CommunityToolkit.Maui.Core.dll
+C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\assets\CommunityToolkit.Maui.dll
+C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\assets\CommunityToolkit.Mvvm.dll
+C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\assets\CommunityToolkit.Mvvm.pdb
+C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\src\crc64159f3caeb1269279\MauiDrawingView.java
+C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\src\crc64159f3caeb1269279\MauiPopup.java
+C:\Users\athul\Desktop\exercise\AppliedActivity1\AppliedActivity1\obj\Debug\net6.0-android\android\src\crc648fc34c62be8fbbff\Snackbar_SnackbarCallback.java
